@@ -1,0 +1,19 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Project open source to create Youtube videos",
+  "main": "C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoniogsCruz/video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoniogsCruz/video-maker/issues"
+  },
+  "homepage": "https://github.com/AntoniogsCruz/video-maker#readme"
+}
